@@ -1,2 +1,4 @@
 # hello-world
-mine new repository
+
+I am coputer science geek.
+New start, feeling damn awesome. 
